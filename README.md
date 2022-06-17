@@ -1,1 +1,3 @@
-# Calculator
+# REQUIREMENTS:
+1.) PYTHON
+2.) VISUAL STUDIO CODE
