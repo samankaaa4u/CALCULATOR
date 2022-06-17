@@ -2,6 +2,8 @@
 1.) PYTHON
 2.) VISUAL STUDIO CODE
 
+#
+
 <img align="center" width="1920" height ="500" src="https://i.pinimg.com/originals/09/c3/aa/09c3aa938f5ddd5180105440d394d8be.gif">
 <h1 align="center">Howdy? I'm Sam Señolay 👋</h1>
 <h3 align="center">Computer Engineer | Technical IT Support Specialist | Social Media Manager | Virtual Assistant | Graphics Designer</h3>
